@@ -15,8 +15,6 @@ import MySQLdb as mydb
 
 """
 USER='root';
-#PASSWD='92d532c1c58a62ac';
-#HOST='10.66.120.17';
 
 PASSWD='zuzhang202';
 HOST='192.168.1.222';
